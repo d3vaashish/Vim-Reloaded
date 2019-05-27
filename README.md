@@ -8,6 +8,11 @@ But they lack features like syntax highlighting, intellisense, autoindentation e
 So, to make more friendly environment for coding.
 Download the ".vimrc" file from the repository, and paste it in the user account alongside folders like Desktop, Downloads, Music etc.
 
+Features:
+         Line Numbering, Syntax highlighting, auto completion of brackets, starting and end of statement. 
+         
+         <a href="https://giphy.com/gifs/XDp5QVAhRfPQFBbKIG/html5"><img src="https://giphy.com/gifs/XDp5QVAhRfPQFBbKIG/html5"/> </a>
+
 Note: U might not be  able to see this file normally, since it's a hidden file meant for customizing VIM Editor.
 
 Alos, make sure vim is installed in your system 
