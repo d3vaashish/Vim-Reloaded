@@ -7,7 +7,7 @@ But they lack features like syntax highlighting, intellisense, autoindentation e
 So, to make more friendly environment for coding.
 Download the ".vimrc" file from the repository, and paste it in the user account alongside folders like Desktop, Downloads, Music etc.
 
-<a href="https://imgflip.com/gif/31yyq2"><img src="https://i.imgflip.com/31yyq2.gif" title="made at imgflip.com"/></a>
+<center><a href="https://imgflip.com/gif/31yyq2"><img src="https://i.imgflip.com/31yyq2.gif" title="made at imgflip.com"/></a></center>
 
 Features:
          Line Numbering, Syntax highlighting, auto completion of brackets, starting and end of statement. 
