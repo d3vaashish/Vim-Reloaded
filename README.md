@@ -34,3 +34,6 @@ Iff VIM is not install on your OS:
 # For VIM installation in other Operating Systems
   Refer website: https://www.vim.org/download.php
   
+  Set terminal background color to #F0F9FC, to have the same experience as mine and as depicted in the GIF above.
+  
+  Happy Coding!
