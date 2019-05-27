@@ -1,5 +1,5 @@
 # NOTE:  vi  and Vim are different.
-#        vi is miniature version of vim editor and won't support features like syntax highlighting.
+         vi is miniature version of vim editor and won't support features like syntax highlighting.
 
 # Vim-Ready-for-coding
 General functionalities required for coding in Vim Editor
