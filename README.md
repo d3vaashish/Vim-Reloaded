@@ -13,21 +13,21 @@ Features:
          Line Numbering, Syntax highlighting, auto completion of brackets, starting and end of statement. 
          
 
-Note: U might not be  able to see this file normally, since it's a hidden file meant for customizing VIM Editor.
+Note: U might not be  able to see this file (.vimrc) normally, since it's a hidden file meant for customizing VIM Editor.
 
 Also, make sure vim is installed in your system 
 # NOTE:  vi  and Vim are different.
          vi is miniature version of vim editor, but won't support features like syntax highlighting.
          
 To check if VIM is installed on your OS: 
-vim --version [ENTER]
+$ vim --version [ENTER]
 
 Iff VIM is not install on your OS:
 @ Ubuntu:
-         sudo apt install vim
+        $ sudo apt install vim
 
 @ Red Hat, Fodora, CentOS
-         sudo dnf install vim
+        $ sudo dnf install vim
 
 (For detailed instructions refer http://vimdoc.sourceforge.net/htmldoc/usr_90.html#install)
 
@@ -37,3 +37,4 @@ Iff VIM is not install on your OS:
   Set terminal background color to #F0F9FC, to have the same experience as mine and as depicted in the GIF above.
   
   Happy Coding!
+  Live a life, less ordinary 🔱
