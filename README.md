@@ -2,9 +2,8 @@
          VIM Editor, ready for coding.
 General functionalities required for coding in Vim Editor
 
-Vim, at hand  editor for user, irrespective of any environment in Linux or MacOS.
-Linux and MacOS come preinstalled with vi or vim.
-But they lack features like syntax highlighting, intellisense, autoindentation etc
+Vim, at hand editor for Linux and MacOS users and administrators.
+But they lack features like syntax highlighting, intellisense, autoindentation etc by default.
 So, to make more friendly environment for coding.
 Download the ".vimrc" file from the repository, and paste it in the user account alongside folders like Desktop, Downloads, Music etc.
 
@@ -16,7 +15,7 @@ Features:
 
 Note: U might not be  able to see this file normally, since it's a hidden file meant for customizing VIM Editor.
 
-Alos, make sure vim is installed in your system 
+Also, make sure vim is installed in your system 
 # NOTE:  vi  and Vim are different.
          vi is miniature version of vim editor, but won't support features like syntax highlighting.
          
