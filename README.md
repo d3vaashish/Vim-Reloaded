@@ -37,4 +37,5 @@ Iff VIM is not install on your OS:
   Set terminal background color to #F0F9FC, to have the same experience as mine and as depicted in the GIF above.
   
   Happy Coding!
+  
   Live a life, less ordinary 🔱
