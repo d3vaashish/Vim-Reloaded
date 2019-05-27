@@ -5,7 +5,7 @@ General functionalities required for coding in Vim Editor
 Vim, at hand editor for Linux and MacOS users and administrators.
 But they lack features like syntax highlighting, intellisense, autoindentation etc by default.
 So, to make more friendly environment for coding.
-Download the ".vimrc" file from the repository, and paste it in the user account alongside folders like Desktop, Downloads, Music etc.
+Download the ".vimrc" file from the repository, and paste inside home folder, alongside folders like Desktop, Downloads, Music etc.
 
 <a href="https://imgflip.com/gif/31yyq2"><img src="https://i.imgflip.com/31yyq2.gif" title="made at imgflip.com"/></a>
 
