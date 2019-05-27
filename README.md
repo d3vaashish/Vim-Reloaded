@@ -22,11 +22,11 @@ To check if VIM is installed on your OS:
 vim --version [ENTER]
 
 Iff VIM is not install on your OS:
-@ Ubuntu
-  sudo apt install vim
+@ Ubuntu:
+         sudo apt install vim
 
 @ Red Hat, Fodora, CentOS
-  sudo dnf install vim
+         sudo dnf install vim
 
 (For detailed instructions refer http://vimdoc.sourceforge.net/htmldoc/usr_90.html#install)
 
