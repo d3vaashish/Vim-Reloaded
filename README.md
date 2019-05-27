@@ -12,11 +12,10 @@ Alos, make sure vim is installed in your system
 # NOTE:  vi  and Vim are different.
          vi is miniature version of vim editor, but won't support features like syntax highlighting.
          
-@Linux OS:
-To check: vim --version [ENTER]
+To check if VIM is installed on your OS: 
+vim --version [ENTER]
 
 Iff VIM is not install on your OS:
-
 @ Ubuntu
   sudo apt install vim
 
