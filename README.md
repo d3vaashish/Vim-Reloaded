@@ -1,4 +1,5 @@
-# Vim-Ready-for-coding
+# Vim-Reloaded
+         VIM Editor ready for coding.
 General functionalities required for coding in Vim Editor
 
 Vim, at hand  editor for user, irrespective of any environment in Linux or MacOS.
