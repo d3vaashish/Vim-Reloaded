@@ -1,5 +1,6 @@
 # Vim-Reloaded
-         VIM Editor ready for coding.
+         VIM Editor, ready for coding.
+         <a href="https://imgflip.com/gif/31yyq2"><img src="https://i.imgflip.com/31yyq2.gif" title="made at imgflip.com"/></a>
 General functionalities required for coding in Vim Editor
 
 Vim, at hand  editor for user, irrespective of any environment in Linux or MacOS.
