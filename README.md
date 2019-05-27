@@ -11,7 +11,6 @@ Download the ".vimrc" file from the repository, and paste it in the user account
 Features:
          Line Numbering, Syntax highlighting, auto completion of brackets, starting and end of statement. 
          
-         <a href="https://giphy.com/gifs/XDp5QVAhRfPQFBbKIG/html5"><img src="https://giphy.com/gifs/XDp5QVAhRfPQFBbKIG/html5"/> </a>
 
 Note: U might not be  able to see this file normally, since it's a hidden file meant for customizing VIM Editor.
 
