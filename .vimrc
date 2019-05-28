@@ -22,6 +22,7 @@ inoremap " ""<left>
 inoremap ` ``<left>
 inoremap ( ()<left>
 inoremap [ []<left>
+inoremap < <><left>
 
 inoremap {<CR> {<CR><CR>}<left><up><tab>
 inoremap "; "";<left><left>
