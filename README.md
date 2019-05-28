@@ -12,7 +12,8 @@ Download the ".vimrc" file from the repository, and paste inside home folder, al
 Features:
          Line Numbering, Syntax highlighting, auto completion of brackets, starting and end of statement, mouse support in insertion mode.
          
-         NOTE: [ENTER] => to press the Enter key (for Linux and Windows users) or return key (for MacOS users)
+         NOTE: [ENTER] => to press the Enter key (for Linux and Windows users) 
+                          or return key (for MacOS users)
          And see the magic after using the following keys. 
          
          { [ENTER] 
