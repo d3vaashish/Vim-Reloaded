@@ -14,7 +14,7 @@ Features:
          
          NOTE: [ENTER] => to press the Enter key (for Linux and Windows users) 
                           or return key (for MacOS users)
-         And see the magic after using the following keys. 
+         And see the magic happen. 
          
          { [ENTER] 
          
