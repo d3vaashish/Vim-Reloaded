@@ -10,7 +10,7 @@ Download the ".vimrc" file from the repository, and paste inside home folder, al
 <a href="https://imgflip.com/gif/31yyq2"><img src="https://i.imgflip.com/31yyq2.gif" title="made at imgflip.com"/></a>
 
 Features:
-         Line Numbering, Syntax highlighting, auto completion of brackets, starting and end of statement. 
+         Line Numbering, Syntax highlighting, auto completion of brackets, starting and end of statement, mouse support in insertion mode.
          
 
 Note: U might not be  able to see this file (.vimrc) normally, since it's a hidden file meant for customizing VIM Editor.
