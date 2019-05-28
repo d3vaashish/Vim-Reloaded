@@ -26,4 +26,4 @@ inoremap [ []<left>
 
 inoremap {<CR> {<CR>}<left><CR><up>
 inoremap {; {<CR><CR>};<up><tab>
-inoremap "; "";<left><left><space>
+inoremap "; "<space>";<left><left>
