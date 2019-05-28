@@ -11,6 +11,7 @@ set showcmd
 set si
 set wildmenu
 set showmatch
+set mouse=a
 
 colorscheme default
 
