@@ -2,6 +2,7 @@ syntax on
 filetype plugin indent on
 
 set ai
+set autoindent
 set hlsearch
 set incsearch
 set number
@@ -23,5 +24,6 @@ inoremap ` ``<left>
 inoremap ( ()<left>
 inoremap [ []<left>
 
-inoremap {<CR> {<CR><CR>}<left><up><tab>
-inoremap "; "";<left><left>
+inoremap {<CR> {<CR>}<left><CR><up>
+inoremap {; {<CR><CR>};<up><tab>
+inoremap "; "";<left><left><space>
