@@ -11,9 +11,13 @@ Download the ".vimrc" file from the repository, and paste inside home folder, al
 
 Features:
          Line Numbering, Syntax highlighting, auto completion of brackets, starting and end of statement, mouse support in insertion mode.
+         
          And see the magic after using the following keys. 
+         
          {[ENTER] 
+         
          {; 
+         
          ";
          
 
